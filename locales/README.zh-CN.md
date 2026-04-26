@@ -57,7 +57,7 @@ AnythingLLM还支持多用户，您可以控制每个用户的访问权限和体
 
 - 🆕 [**完全兼容 MCP**](https://docs.anythingllm.com/mcp-compatibility/overview)
 - 🆕 [**无代码AI代理构建器**](https://docs.anythingllm.com/agent-flows/overview)
-- 🖼️ **多用户实例支持和权限管理（支持封闭源和开源LLM！）**
+- 🖼️ **多模型支持（支持封闭源和开源LLM！）**
 - [**自定义人工智能代理**](https://docs.anythingllm.com/agent/custom/introduction)
 - 👤 多用户实例支持和权限管理 _仅限Docker版本_
 - 🦾 工作区内的智能体（浏览网页、运行代码等）
